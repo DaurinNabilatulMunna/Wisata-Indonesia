@@ -59,7 +59,7 @@ class KategoriPage_beach extends StatelessWidget {
                 ),
               ),
               Container(
-                padding: EdgeInsets.only(top: 30),
+                padding: EdgeInsets.only(top: 20),
                 decoration: BoxDecoration(
                   color: Colors.white,
                   borderRadius: BorderRadius.only(
